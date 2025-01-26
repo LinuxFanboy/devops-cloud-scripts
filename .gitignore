@@ -1,0 +1,58 @@
+# Ignore Python compiled files
+*.py[cod]
+__pycache__/
+*.so
+
+# Ignore virtual environments
+.env/
+venv/
+env/
+ENV/
+
+# Ignore sensitive configuration files
+.env
+*.env.*
+
+# Ignore Bash-related files
+*.log
+*.bak
+*.swp
+
+# Ignore PowerShell-related files
+*.ps1xml
+*.psm1
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE and editor files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore backup files
+*.tmp
+*.temp
+*.old
+*.bak
+
+# Ignore compressed files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Ignore system-generated files
+*.lock
+*.pid
+
+# Ignore custom directories or files
+output/
+build/
+dist/
+*.log
+*.cache
+
