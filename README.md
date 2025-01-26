@@ -14,7 +14,7 @@ A collection of scripts for automating and managing cloud environments, written 
 ## Usage
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/devops-cloud-scripts.git
+   git clone https://github.com/LinuxFanboy/devops-cloud-scripts.git
    ```
 2. Run a script:  
    - Bash: `./script.sh`  
